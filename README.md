@@ -11,20 +11,6 @@ Celem było opracowanie precyzyjnych rysunków technicznych stanowiących podsta
 * **Wymiarowanie:** Zaawansowane opisywanie tolerancji, pasowań oraz chropowatości powierzchni.
 * **Skalowanie i Wydruk:** Konfiguracja rzutni (Viewports) w przestrzeni arkusza (Layout) oraz przygotowanie dokumentacji do druku w różnych skalach.
 
-## 📁 Zawartość repozytorium
-
-W skład portfolio wchodzą następujące opracowania:
-
-1. **[Nazwa Projektu 1, np. Schemat Instalacji Pneumatycznej]**
-   * Opis: [Krótki opis, co przedstawia rysunek].
-   * Kluczowe elementy: Wykorzystanie bibliotek symboli, prowadzenie linii sygnałowych.
-2. **[Nazwa Projektu 2, np. Detal Maszynowy - Wał Stopniowany]**
-   * Opis: Rysunek wykonawczy z pełnym wymiarowaniem i przekrojami.
-   * Kluczowe elementy: Tolerancje geometryczne, tabliczka rysunkowa.
-3. **[Nazwa Projektu 3, np. Layout Stanowiska Zrobotyzowanego]**
-   * Opis: Plan rozmieszczenia urządzeń w przestrzeni produkcyjnej.
-   * Kluczowe elementy: Optymalizacja ergonomii, rzuty z góry i izometryczne.
-
 ## 📷 Galeria Rysunków
 
 ### Wałek
@@ -39,10 +25,6 @@ W skład portfolio wchodzą następujące opracowania:
 ### Tuleja
 <img width="584" height="825" alt="{6896FBEC-FD95-4269-92E7-D1126FE60E73}" src="https://github.com/user-attachments/assets/468a5543-e5fa-4825-8362-0fb5ce982430" />
 
-## 🚀 Formaty plików
-W repozytorium znajdują się:
-* Pliki źródłowe **.dwg** (do edycji w programie AutoCAD).
-* Eksporty do formatu **.pdf** (do szybkiego podglądu dokumentacji).
 
 ---
 *Projekty zrealizowane w ramach zajęć "Systemy CAx / Grafika Inżynierska" na Politechnice Warszawskiej (Kierunek: Automatyzacja i Robotyzacja Procesów Produkcyjnych).*
